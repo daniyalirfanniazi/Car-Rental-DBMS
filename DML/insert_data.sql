@@ -3,8 +3,8 @@ INSERT INTO Branch (branch_id, branch_name, city, phone) VALUES
 (2, 'Airport Branch', 'Karachi', '021-7654321');
 
 INSERT INTO Employee (employee_id, name, role, salary, branch_id) VALUES
-(1, 'Ahmed Raza', 'Manager', 80000, 1),
-(2, 'Sara Khan', 'Agent', 50000, 1),
+(1, 'Daniyal Irfan', 'Manager', 80000, 1),
+(2, 'Salar Butt', 'Agent', 50000, 1),
 (3, 'Usman Ali', 'Agent', 52000, 2);
 
 INSERT INTO Customer (customer_id, name, email, phone, license_number) VALUES
